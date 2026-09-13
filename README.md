@@ -1,4 +1,3 @@
-<img src="./assets/lab-signal-banner.png" alt="A midnight signal laboratory with a Linux workstation, modular synthesizer, oscilloscopes, radio equipment, and handwritten waveform diagrams" width="100%" />
 
 <div align="center">
 
