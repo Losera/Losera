@@ -95,7 +95,6 @@ If you’re working on audio software, creative coding, music technology, or an 
 
 <div align="center">
 
-`THE SIGNAL IS OUT THERE // BUILD THE RECEIVER`
 
 <sub>
 Banner derived from a 1996 NIST oscilloscope photograph by Benz/NIST,
