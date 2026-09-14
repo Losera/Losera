@@ -16,6 +16,8 @@ I work at the boundary between musical ideas and the machinery that makes them a
 
 Usually transmitting from Arch Linux with too many oscillators nearby.
 
+<img src="./assets/contributions.svg" alt="Losera's public GitHub contribution activity in the oscilloscope signal palette" width="100%" />
+
 ## 02 / SELECTED WORK
 
 <table>

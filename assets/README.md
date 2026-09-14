@@ -12,3 +12,8 @@ oscilloscope trace”** by Benz / National Institute of Standards and Technology
 
 The Wikimedia Commons file page requests the byline “Benz/NIST” when the image
 is reused. The profile README includes that credit.
+
+`contributions.svg` is generated from Losera's public GitHub contribution
+calendar by `scripts/render_contributions.py`. Its five activity levels use the
+same black-to-signal-red palette as the oscilloscope banner. The scheduled
+workflow only commits the asset when its contents change.
