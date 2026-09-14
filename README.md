@@ -4,7 +4,7 @@
 
 # JUAN NARANJO
 
-**DSP engineer in training · musician · systems-minded builder**
+**DSP engineer · musician · systems-minded builder**
 
 I build tools where code becomes sound—and experiments become reliable systems.
 
